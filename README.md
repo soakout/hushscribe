@@ -48,7 +48,7 @@ iPhone with iOS 17 or later. It also opens on iPad in iPhone compatibility mode.
 
 ## Feedback
 
-Found a bug or want a feature? [Open an issue](../../issues/new). For anything private, write to [service@worldmetric.cn](mailto:service@worldmetric.cn).
+Found a bug or want a feature? [Open an issue](../../issues/new). For anything private, write to [hi@soakout.com](mailto:hi@soakout.com).
 
 ---
 
